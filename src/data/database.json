@@ -1,0 +1,19 @@
+{
+    "user":[
+        {
+            "name":"pavan",
+            "age":23,
+            "place":"balekoppa"
+        },
+        {
+            "name":"dhanu",
+            "age":24,
+            "place":"balekopa"
+        },
+        {
+            "name":"pavanraj",
+            "age":24,
+            "place":"shivamogga"
+        }
+    ]
+}
