@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background-color:rgb(224, 77, 77);
+    align-items: center;
+}
+.user{  
+    width: 650px;
+    margin-left: 370px;
+    background-color:gray;
+    border-radius: 10px;
+}
+.usrlist{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    background-color: rgb(231, 237, 243);
+    margin: 30px 10px;
+}
+.head{
+    background-color: white;
+    padding: 40px;
+    display:flex;
+}
+.usrlist img{
+    border-radius: 150px;
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+}
+button{
+    margin: auto;
+    width: 70px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+}
+h1{
+    margin: auto;
+}
